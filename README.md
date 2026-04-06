@@ -1,5 +1,5 @@
 
-   <h1>Hi there, I'm Krishna Gupta</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm Krishna Gupta</a> </h1>
 
 > I'm Interested in everything about Backend Systems and Software Engineering.
 
@@ -12,7 +12,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishna-gupta-481497346?utm_source=share_via&utm_content=profile&utm_medium=member_android) -->
 
 
-## 🚀 Projects
+##  Projects
 
 - [Crave](https://github.com/Krishna-022/crave-backend) — Online food ordering platform with JWT authentication, refresh token rotation, cursor-based pagination, transactional APIs, and structured request tracing.
 - [Zurl](https://github.com/Krishna-022/zurl-api) — URL shortener built with Redis caching, database fallback, request validation, and centralized exception handling.
