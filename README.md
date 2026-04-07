@@ -49,12 +49,6 @@
 
 ---
 
-## ⚙️ Tech Stack
-
-`Java` `Spring Boot` `PostgreSQL` `Redis` `SQL` `Maven` `Git` `GitHub`
-
----
-
 ## 📬 Contact Me
 
 Feel free to reach out. I am always open to collaboration, discussions and opportunities.
